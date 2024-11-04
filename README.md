@@ -1,8 +1,6 @@
 # Excel-Sales-Dashboard
 “Interactive Sales Dashboard built in Excel for tracking and visualizing key sales metrics.”
 
-Here’s a simplified version of your README for the SuperSales Analysis Dashboard project:
-
 SuperSales Analysis Dashboard
 Overview
 The SuperSales Analysis Dashboard is an Excel tool that shows sales and profit insights by region, segment, and product category. It helps users quickly understand sales performance and trends.
